@@ -1,11 +1,6 @@
 {
     "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "guava-io-19.0.0.jar",
         "c:\\Users\\Liron\\Downloads\\guava-io-19.0.0.jar",
-        "c:\\Users\\Liron\\Downloads\\guava-core-19.0.0.jar",
-        "c:\\Users\\Liron\\Downloads\\guava-collect-19.0.0.jar",
-        "c:\\Users\\Liron\\Downloads\\j2objc-annotations-0.1.jar",
-        "c:\\Users\\Liron\\Downloads\\animal-sniffer-annotations-1.14.jar"
+        "c:\\Users\\Liron\\Downloads\\guava-core-19.0.0.jar"
     ]
 }
